@@ -10,6 +10,7 @@ I'm solving them stage by stage and keeping a record here.
 ## Problems Solved
 - Stage 1: Hello World
 - Stage 2: Sum and Difference of Two Numbers
+- stage 3: character, string and sentence input
 - [More coming soon...]
 
 ## Goal
